@@ -1,1 +1,3 @@
-# udacity_landmarks_project
+# Udacity Landmarks Project
+
+Uploaded without explanation for submission, details coming soon...
